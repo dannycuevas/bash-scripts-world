@@ -8,5 +8,4 @@ I will be dividing the scripts (as much as possible) in the following 3 levels:
 
 As this project grows, I will be adding "specific use-case scenarios", for example "monitoring scripts".
 
-Cheers!
-Daniel
+Cheers!, Daniel
